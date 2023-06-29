@@ -2,7 +2,7 @@
 
 exports[`Typography matches DOM Snapshot for Heading 1`] = `
 <Text
-  className="StyledNativeComponent sc-bdvvtL WlLON"
+  className="StyledNativeComponent sc-aXZVg fBikhC"
   color="#000"
   fontFamily="Roboto"
   fontSize="M"
@@ -14,7 +14,7 @@ exports[`Typography matches DOM Snapshot for Heading 1`] = `
 
 exports[`Typography matches DOM Snapshot for SubHeading 1`] = `
 <Text
-  className="StyledNativeComponent sc-gsDKAQ fgSmKS"
+  className="StyledNativeComponent sc-gEvEer gyLyvE"
   color="#000"
   fontFamily="Roboto"
   fontSize="M"

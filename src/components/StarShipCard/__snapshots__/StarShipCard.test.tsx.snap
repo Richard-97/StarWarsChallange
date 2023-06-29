@@ -6,13 +6,13 @@ exports[`StarShipCard matches DOM Snapshot 1`] = `
   background="#201652"
   borderRadius="10px"
   boxShadow="5px 3px 5px #e5e5e5"
-  className="sc-bdvvtL iFUkdj"
+  className="sc-aXZVg dtxNCA"
   mx="16px"
   my="8px"
   p="24px"
 >
   <Text
-    className="StyledNativeComponent sc-gsDKAQ kEVtvo"
+    className="StyledNativeComponent sc-gEvEer fVIpou"
     color="#000"
     fontFamily="Roboto"
     fontSize="M"
@@ -23,7 +23,7 @@ exports[`StarShipCard matches DOM Snapshot 1`] = `
     Test name
   </Text>
   <Text
-    className="StyledNativeComponent sc-dkPtRN gNewWG"
+    className="StyledNativeComponent sc-eqUAAy bVCvdq"
     color="#000"
     fontFamily="Roboto"
     fontSize="M"
@@ -34,11 +34,11 @@ exports[`StarShipCard matches DOM Snapshot 1`] = `
     Imperium
   </Text>
   <View
-    className="sc-bdvvtL cJPTtN"
+    className="sc-aXZVg gOdboe"
     width="100%"
   >
     <View
-      className="sc-bdvvtL fzamWg"
+      className="sc-aXZVg QSfUr"
       flexDirection="row"
       mb="16px"
     >
@@ -46,7 +46,7 @@ exports[`StarShipCard matches DOM Snapshot 1`] = `
         alignItems="center"
         background="#3DBFAF"
         borderRadius="10px"
-        className="sc-bdvvtL fpWhVJ"
+        className="sc-aXZVg hIhPbC"
         flex={1}
         justifyContent="center"
         mr="8px"
@@ -95,7 +95,7 @@ exports[`StarShipCard matches DOM Snapshot 1`] = `
         alignItems="center"
         background="#3DBFAF"
         borderRadius="10px"
-        className="sc-bdvvtL fHlXbG"
+        className="sc-aXZVg laLpIJ"
         flex={1}
         justifyContent="center"
         ml="8px"
@@ -142,7 +142,7 @@ exports[`StarShipCard matches DOM Snapshot 1`] = `
       </View>
     </View>
     <View
-      className="sc-bdvvtL fzamWg"
+      className="sc-aXZVg QSfUr"
       flexDirection="row"
       mb="16px"
     >
@@ -150,7 +150,7 @@ exports[`StarShipCard matches DOM Snapshot 1`] = `
         alignItems="center"
         background="#3DBFAF"
         borderRadius="10px"
-        className="sc-bdvvtL fpWhVJ"
+        className="sc-aXZVg hIhPbC"
         flex={1}
         justifyContent="center"
         mr="8px"
@@ -199,7 +199,7 @@ exports[`StarShipCard matches DOM Snapshot 1`] = `
         alignItems="center"
         background="#3DBFAF"
         borderRadius="10px"
-        className="sc-bdvvtL fHlXbG"
+        className="sc-aXZVg laLpIJ"
         flex={1}
         justifyContent="center"
         ml="8px"
@@ -246,7 +246,7 @@ exports[`StarShipCard matches DOM Snapshot 1`] = `
       </View>
     </View>
     <View
-      className="sc-bdvvtL fzamWg"
+      className="sc-aXZVg QSfUr"
       flexDirection="row"
       mb="16px"
     >
@@ -254,7 +254,7 @@ exports[`StarShipCard matches DOM Snapshot 1`] = `
         alignItems="center"
         background="#3DBFAF"
         borderRadius="10px"
-        className="sc-bdvvtL fpWhVJ"
+        className="sc-aXZVg hIhPbC"
         flex={1}
         justifyContent="center"
         mr="8px"
@@ -303,7 +303,7 @@ exports[`StarShipCard matches DOM Snapshot 1`] = `
         alignItems="center"
         background="#3DBFAF"
         borderRadius="10px"
-        className="sc-bdvvtL fHlXbG"
+        className="sc-aXZVg laLpIJ"
         flex={1}
         justifyContent="center"
         ml="8px"

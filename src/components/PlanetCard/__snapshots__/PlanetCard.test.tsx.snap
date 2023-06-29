@@ -6,7 +6,7 @@ exports[`PlanetCard matches DOM Snapshot 1`] = `
   background="#201652"
   borderRadius="10px"
   boxShadow="5px 3px 5px #e5e5e5"
-  className="sc-bdvvtL iFUkdj"
+  className="sc-aXZVg dtxNCA"
   mx="16px"
   my="8px"
   p="24px"
@@ -32,11 +32,11 @@ exports[`PlanetCard matches DOM Snapshot 1`] = `
     Test name
   </Text>
   <View
-    className="sc-bdvvtL hrMiJy"
+    className="sc-aXZVg fyoLdF"
     flexDirection="row"
   >
     <View
-      className="sc-bdvvtL fzpeaf"
+      className="sc-aXZVg gQScLw"
       flex={1}
       mr="8px"
     >
@@ -44,7 +44,7 @@ exports[`PlanetCard matches DOM Snapshot 1`] = `
         alignItems="center"
         background="#3DBFAF"
         borderRadius="10px"
-        className="sc-bdvvtL hVylIW"
+        className="sc-aXZVg HJYhR"
         justifyContent="center"
         mb="16px"
         p="16px"
@@ -92,7 +92,7 @@ exports[`PlanetCard matches DOM Snapshot 1`] = `
         alignItems="center"
         background="#3DBFAF"
         borderRadius="10px"
-        className="sc-bdvvtL jfUa-dE"
+        className="sc-aXZVg bYSwzr"
         justifyContent="center"
         p="16px"
       >
@@ -137,7 +137,7 @@ exports[`PlanetCard matches DOM Snapshot 1`] = `
       </View>
     </View>
     <View
-      className="sc-bdvvtL hXqByU"
+      className="sc-aXZVg buFKgP"
       flex={1}
       ml="8px"
     >
@@ -145,7 +145,7 @@ exports[`PlanetCard matches DOM Snapshot 1`] = `
         alignItems="center"
         background="#3DBFAF"
         borderRadius="10px"
-        className="sc-bdvvtL hVylIW"
+        className="sc-aXZVg HJYhR"
         justifyContent="center"
         mb="16px"
         p="16px"
@@ -193,7 +193,7 @@ exports[`PlanetCard matches DOM Snapshot 1`] = `
         alignItems="center"
         background="#3DBFAF"
         borderRadius="10px"
-        className="sc-bdvvtL jfUa-dE"
+        className="sc-aXZVg bYSwzr"
         justifyContent="center"
         p="16px"
       >
