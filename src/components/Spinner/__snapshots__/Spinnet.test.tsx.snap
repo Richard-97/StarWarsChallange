@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner matches DOM Snapshot 1`] = `
+<RNSpinkit
+  color={4278190080}
+  size={37}
+  style={
+    [
+      {
+        "height": 37,
+        "width": 37,
+      },
+      undefined,
+    ]
+  }
+  type="ThreeBounce"
+/>
+`;

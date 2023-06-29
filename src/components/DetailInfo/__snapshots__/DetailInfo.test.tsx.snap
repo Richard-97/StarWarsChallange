@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DetailInfo matches DOM Snapshot 1`] = `
+<View
+  alignItems="center"
+  background="#3DBFAF"
+  borderRadius="10px"
+  className="sc-bdvvtL jfUa-dE"
+  justifyContent="center"
+  p="16px"
+>
+  <Text
+    color="#201652"
+    fontFamily="Roboto"
+    fontSize="M"
+    fontWeight="SEMI_BOLD"
+    mb="8px"
+    style={
+      [
+        {
+          "color": "#201652",
+          "fontFamily": "Roboto",
+          "fontSize": 16,
+          "fontWeight": "600",
+          "marginBottom": 8,
+        },
+      ]
+    }
+  >
+    Weight
+  </Text>
+  <Text
+    color="#201652"
+    fontFamily="Roboto"
+    fontSize="M"
+    fontWeight="NORMAL"
+    style={
+      [
+        {
+          "color": "#201652",
+          "fontFamily": "Roboto",
+          "fontSize": 16,
+          "fontWeight": "400",
+        },
+      ]
+    }
+  >
+    90
+  </Text>
+</View>
+`;

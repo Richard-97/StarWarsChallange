@@ -1,0 +1,242 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PlanetCard matches DOM Snapshot 1`] = `
+<View
+  alignItems="center"
+  background="#201652"
+  borderRadius="10px"
+  boxShadow="5px 3px 5px #e5e5e5"
+  className="sc-bdvvtL iFUkdj"
+  mx="16px"
+  my="8px"
+  p="24px"
+>
+  <Text
+    color="#FBE123"
+    fontFamily="Roboto"
+    fontSize="XXL"
+    fontWeight="BOLD"
+    mb="24px"
+    style={
+      [
+        {
+          "color": "#FBE123",
+          "fontFamily": "Roboto",
+          "fontSize": 25,
+          "fontWeight": "700",
+          "marginBottom": 24,
+        },
+      ]
+    }
+  >
+    Test name
+  </Text>
+  <View
+    className="sc-bdvvtL hrMiJy"
+    flexDirection="row"
+  >
+    <View
+      className="sc-bdvvtL fzpeaf"
+      flex={1}
+      mr="8px"
+    >
+      <View
+        alignItems="center"
+        background="#3DBFAF"
+        borderRadius="10px"
+        className="sc-bdvvtL hVylIW"
+        justifyContent="center"
+        mb="16px"
+        p="16px"
+      >
+        <Text
+          color="#201652"
+          fontFamily="Roboto"
+          fontSize="M"
+          fontWeight="SEMI_BOLD"
+          mb="8px"
+          style={
+            [
+              {
+                "color": "#201652",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "600",
+                "marginBottom": 8,
+              },
+            ]
+          }
+        >
+          Terrain
+        </Text>
+        <Text
+          color="#201652"
+          fontFamily="Roboto"
+          fontSize="M"
+          fontWeight="NORMAL"
+          style={
+            [
+              {
+                "color": "#201652",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "400",
+              },
+            ]
+          }
+        >
+          Sand
+        </Text>
+      </View>
+      <View
+        alignItems="center"
+        background="#3DBFAF"
+        borderRadius="10px"
+        className="sc-bdvvtL jfUa-dE"
+        justifyContent="center"
+        p="16px"
+      >
+        <Text
+          color="#201652"
+          fontFamily="Roboto"
+          fontSize="M"
+          fontWeight="SEMI_BOLD"
+          mb="8px"
+          style={
+            [
+              {
+                "color": "#201652",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "600",
+                "marginBottom": 8,
+              },
+            ]
+          }
+        >
+          Climate
+        </Text>
+        <Text
+          color="#201652"
+          fontFamily="Roboto"
+          fontSize="M"
+          fontWeight="NORMAL"
+          style={
+            [
+              {
+                "color": "#201652",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "400",
+              },
+            ]
+          }
+        >
+          Hot
+        </Text>
+      </View>
+    </View>
+    <View
+      className="sc-bdvvtL hXqByU"
+      flex={1}
+      ml="8px"
+    >
+      <View
+        alignItems="center"
+        background="#3DBFAF"
+        borderRadius="10px"
+        className="sc-bdvvtL hVylIW"
+        justifyContent="center"
+        mb="16px"
+        p="16px"
+      >
+        <Text
+          color="#201652"
+          fontFamily="Roboto"
+          fontSize="M"
+          fontWeight="SEMI_BOLD"
+          mb="8px"
+          style={
+            [
+              {
+                "color": "#201652",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "600",
+                "marginBottom": 8,
+              },
+            ]
+          }
+        >
+          Gravity
+        </Text>
+        <Text
+          color="#201652"
+          fontFamily="Roboto"
+          fontSize="M"
+          fontWeight="NORMAL"
+          style={
+            [
+              {
+                "color": "#201652",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "400",
+              },
+            ]
+          }
+        >
+          3
+        </Text>
+      </View>
+      <View
+        alignItems="center"
+        background="#3DBFAF"
+        borderRadius="10px"
+        className="sc-bdvvtL jfUa-dE"
+        justifyContent="center"
+        p="16px"
+      >
+        <Text
+          color="#201652"
+          fontFamily="Roboto"
+          fontSize="M"
+          fontWeight="SEMI_BOLD"
+          mb="8px"
+          style={
+            [
+              {
+                "color": "#201652",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "600",
+                "marginBottom": 8,
+              },
+            ]
+          }
+        >
+          Population
+        </Text>
+        <Text
+          color="#201652"
+          fontFamily="Roboto"
+          fontSize="M"
+          fontWeight="NORMAL"
+          style={
+            [
+              {
+                "color": "#201652",
+                "fontFamily": "Roboto",
+                "fontSize": 16,
+                "fontWeight": "400",
+              },
+            ]
+          }
+        >
+          32131
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card matches DOM Snapshot 1`] = `
+<View
+  alignItems="center"
+  background="#201652"
+  borderRadius="10px"
+  boxShadow="5px 3px 5px #e5e5e5"
+  className="sc-bdvvtL iFUkdj"
+  data-testId="parent"
+  mx="16px"
+  my="8px"
+  p="24px"
+>
+  <Text
+    color="#000"
+    fontFamily="Roboto"
+    fontSize="M"
+    fontWeight="NORMAL"
+    style={
+      [
+        {
+          "color": "#000",
+          "fontFamily": "Roboto",
+          "fontSize": 16,
+          "fontWeight": "400",
+        },
+      ]
+    }
+  >
+    Test children
+  </Text>
+</View>
+`;

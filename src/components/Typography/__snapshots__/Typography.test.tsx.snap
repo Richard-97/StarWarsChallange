@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography matches DOM Snapshot for Heading 1`] = `
+<Text
+  className="StyledNativeComponent sc-bdvvtL WlLON"
+  color="#000"
+  fontFamily="Roboto"
+  fontSize="M"
+  fontWeight="NORMAL"
+>
+  Test Heading
+</Text>
+`;
+
+exports[`Typography matches DOM Snapshot for SubHeading 1`] = `
+<Text
+  className="StyledNativeComponent sc-gsDKAQ fgSmKS"
+  color="#000"
+  fontFamily="Roboto"
+  fontSize="M"
+  fontWeight="NORMAL"
+>
+  Test SubHeading
+</Text>
+`;

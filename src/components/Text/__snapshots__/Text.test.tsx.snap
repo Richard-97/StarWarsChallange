@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text matches DOM Snapshot 1`] = `
+<Text
+  color="#000"
+  fontFamily="Roboto"
+  fontSize="M"
+  fontWeight="NORMAL"
+  style={
+    [
+      {
+        "color": "#000",
+        "fontFamily": "Roboto",
+        "fontSize": 16,
+        "fontWeight": "400",
+      },
+    ]
+  }
+/>
+`;

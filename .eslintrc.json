@@ -1,0 +1,48 @@
+{
+  "root": true,
+  "extends": [
+    "@react-native-community",
+    "airbnb-typescript",
+    "plugin:jest/recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:@typescript-eslint/recommended-requiring-type-checking",
+    "plugin:prettier/recommended",
+    "prettier/react",
+    "prettier/@typescript-eslint",
+    "plugin:react-hooks/recommended"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": ["./tsconfig.json"]
+  },
+  "plugins": ["@typescript-eslint", "import", "jest"],
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".jsx", ".ts", ".tsx"]
+      }
+    }
+  },
+  "rules": {
+    "import/no-extraneous-dependencies": ["error", {"devDependencies": true}],
+    "@typescript-eslint/ban-types": 0,
+    "@typescript-eslint/no-unsafe-call": 0,
+    "@typescript-eslint/explicit-module-boundary-types": 0,
+    "@typescript-eslint/no-shadow": 0,
+    "@typescript-eslint/no-unsafe-assignment": 0,
+    "@typescript-eslint/no-non-null-assertion": 0,
+    "@typescript-eslint/no-unused-vars": "error",
+    "import/prefer-default-export": 0,
+    "arrow-body-style": ["error", "as-needed"],
+    "class-methods-use-this": 0,
+    "eslint-disable no-restricted-syntax": 0,
+    "consistent-return": "error",
+    "radix": ["error", "as-needed"],
+    "no-void": 0,
+    "no-alert": 0,
+    "react/require-default-props": "off",
+    "react/jsx-fragments": [1, "syntax"],
+    "react/jsx-props-no-spreading": 0,
+    "prettier/prettier": ["off"]
+  }
+}
